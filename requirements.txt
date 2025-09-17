@@ -1,0 +1,3 @@
+- Raspberry Pi (any model with WiFi)
+- Raspberry Pi OS (Bullseye or newer)
+- Root access for WiFi monitor mode
